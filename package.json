@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DavidRinSE/wordle-bot/issues"
   },
-  "homepage": "https://github.com/DavidRinSE/wordle-bot#readme"
+  "homepage": "https://github.com/DavidRinSE/wordle-bot#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
